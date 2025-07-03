@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Satyam Kumar
+<!--# 👋 Hey, I'm Satyam Kumar
 
 💼 Full Stack & AI Enthusiast | Future Software Developer  
 🎓 Final Year B.Tech (ECE) | India 🇮🇳 | Actively seeking internships & full-time roles
@@ -45,7 +45,7 @@ I believe in consistent progress and building *project-first*, not just theory.
 
 ---
 
-## 📂 Repositories to Explore
+<!--## 📂 Repositories to Explore
 
 | Folder             | Description                                             |
 |--------------------|---------------------------------------------------------|
@@ -57,6 +57,7 @@ I believe in consistent progress and building *project-first*, not just theory.
 | `/DSA-Practice`    | 100+ Java-based DSA problems with solutions             |
 
 ---
+-->
 
 ## 🔥 Weekly Project Mission
 
@@ -67,7 +68,7 @@ Every week, I publish a new project focused on:
 - 🤖 GPT + LangChain tools
 - 📊 Real data visualizations with Python or Power BI
 
-These are building blocks toward my 2026-ready portfolio.
+These are building blocks toward my portfolio.
 
 ---
 
@@ -90,9 +91,9 @@ These are building blocks toward my 2026-ready portfolio.
 
 ## 📬 Let’s Connect
 
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link) *(replace this)*
-- 📧 Email: `satyam04tech@gmail.com`
-- 🌐 Portfolio: `https://satyamdev.vercel.app` *(coming soon)*
+- 💼 LinkedIn: https://www.linkedin.com/in/satyam-kumar-020282257
+- 📧 Email: satyamkumarr04@gmail.com
+- 🌐 Portfolio: *(coming soon)*
 
 ---
 
