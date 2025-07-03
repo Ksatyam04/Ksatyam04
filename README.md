@@ -57,7 +57,7 @@ I believe in consistent progress and building *project-first*, not just theory.
 | `/DSA-Practice`    | 100+ Java-based DSA problems with solutions             |
 
 ---
--->
+
 
 ## 🔥 Weekly Project Mission
 
@@ -71,7 +71,7 @@ Every week, I publish a new project focused on:
 These are building blocks toward my portfolio.
 
 ---
-
+-->
 ## 📈 GitHub Stats
 
 <p align="center">
