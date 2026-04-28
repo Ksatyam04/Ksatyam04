@@ -3,6 +3,7 @@
 I'm a data analyst and Python developer passionate about transforming messy data into actionable insights and intelligent systems.
 I've built end-to-end projects — from AI-powered PDF parsers and electricity bill analyzers to BI dashboards covering 750+ IPL matches and a book recommendation engine processing 200K+ records.
 My stack: Python, SQL, Power BI, Pandas, Plotly, Streamlit, SQLite, Git.
+
 ---
 
 ## 🧰 Analytics & Technical Stack
